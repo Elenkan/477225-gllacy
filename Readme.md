@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Elena Nikishina](https://up.htmlacademy.ru/htmlcss/23/user/477225).
-* Наставник: `Неизвестно`.
+* Наставник: [Сам себе наставник](https://up.htmlacademy.ru/htmlcss/23/user/477225).
 
 ---
 
